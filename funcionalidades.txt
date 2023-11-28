@@ -1,1 +1,3 @@
 Funcionalidade X
+
+Funcionalidade B
